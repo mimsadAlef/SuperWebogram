@@ -1,4 +1,4 @@
-![screenshot](https://raw.githubusercontent.com/mimsadAlef/SuperWebogram/main/sceenshot.png)
+![screenshot](https://raw.githubusercontent.com/mimsadAlef/SuperWebogram/main/screenshot.png)
 
 # SuperWebogram
 telegram and Rubika and shad supported :)
